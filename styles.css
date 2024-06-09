@@ -35,7 +35,9 @@ body {
     font-size: 16px;
     box-sizing: border-box; 
 }
-
+.submitbuttons {
+    margin-top: 20px;
+}
 .submitbuttons {
     display: flex;
     justify-content: center;
